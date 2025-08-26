@@ -1,5 +1,5 @@
 Project: Fake News Detection
-Author: Elif Toraman
+
 
 Project Overview:
 This project implements a machine learning model to classify news articles as FAKE or REAL.
